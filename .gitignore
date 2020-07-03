@@ -8,7 +8,7 @@ workspace.xml
 01_ko.tsv
 the-movies-dataset/
 logs/
-dogs-vs-cats/
+dogs_cats/
 NYT-comments/
 model/
 googlemapskey.txt
